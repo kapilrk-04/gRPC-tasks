@@ -1,0 +1,1378 @@
+2024-10-21 23:15:07,191 - INFO - Starting the RTF server...
+2024-10-21 23:15:07,191 - DEBUG - Using proactor: IocpProactor
+2024-10-21 23:15:07,192 - DEBUG - Using AsyncIOEngine.POLLER as I/O engine
+2024-10-21 23:15:07,194 - INFO - RTFService initialized with document content: 'hello!'
+2024-10-21 23:15:07,194 - INFO - Starting gRPC server on port 50051
+2024-10-21 23:15:12,199 - DEBUG - Logging changes...
+2024-10-21 23:15:17,207 - DEBUG - Logging changes...
+2024-10-21 23:15:22,218 - DEBUG - Logging changes...
+2024-10-21 23:15:27,221 - DEBUG - Logging changes...
+2024-10-21 23:15:32,224 - DEBUG - Logging changes...
+2024-10-21 23:15:37,239 - DEBUG - Logging changes...
+2024-10-21 23:15:42,242 - DEBUG - Logging changes...
+2024-10-21 23:15:47,247 - DEBUG - Logging changes...
+2024-10-21 23:15:52,255 - DEBUG - Logging changes...
+2024-10-21 23:15:57,261 - DEBUG - Logging changes...
+2024-10-21 23:16:02,275 - DEBUG - Logging changes...
+2024-10-21 23:16:07,278 - DEBUG - Logging changes...
+2024-10-21 23:16:12,289 - DEBUG - Logging changes...
+2024-10-21 23:16:17,293 - DEBUG - Logging changes...
+2024-10-21 23:16:22,301 - DEBUG - Logging changes...
+2024-10-21 23:16:27,302 - DEBUG - Logging changes...
+2024-10-21 23:16:32,308 - DEBUG - Logging changes...
+2024-10-21 23:16:37,321 - DEBUG - Logging changes...
+2024-10-21 23:16:42,335 - DEBUG - Logging changes...
+2024-10-21 23:16:47,344 - DEBUG - Logging changes...
+2024-10-21 23:16:52,359 - DEBUG - Logging changes...
+2024-10-21 23:16:57,361 - DEBUG - Logging changes...
+2024-10-21 23:17:02,370 - DEBUG - Logging changes...
+2024-10-21 23:17:07,384 - DEBUG - Logging changes...
+2024-10-21 23:17:12,385 - DEBUG - Logging changes...
+2024-10-21 23:17:17,393 - DEBUG - Logging changes...
+2024-10-21 23:17:22,408 - DEBUG - Logging changes...
+2024-10-21 23:17:27,418 - DEBUG - Logging changes...
+2024-10-21 23:17:32,420 - DEBUG - Logging changes...
+2024-10-21 23:17:37,427 - DEBUG - Logging changes...
+2024-10-21 23:17:42,429 - DEBUG - Logging changes...
+2024-10-21 23:17:47,441 - DEBUG - Logging changes...
+2024-10-21 23:17:52,446 - DEBUG - Logging changes...
+2024-10-21 23:17:57,455 - DEBUG - Logging changes...
+2024-10-21 23:18:02,456 - DEBUG - Logging changes...
+2024-10-21 23:18:07,459 - DEBUG - Logging changes...
+2024-10-21 23:18:12,466 - DEBUG - Logging changes...
+2024-10-21 23:18:17,480 - DEBUG - Logging changes...
+2024-10-21 23:18:22,484 - DEBUG - Logging changes...
+2024-10-21 23:18:27,492 - DEBUG - Logging changes...
+2024-10-21 23:18:32,501 - DEBUG - Logging changes...
+2024-10-21 23:18:37,511 - DEBUG - Logging changes...
+2024-10-21 23:18:42,521 - DEBUG - Logging changes...
+2024-10-21 23:18:47,524 - DEBUG - Logging changes...
+2024-10-21 23:18:52,528 - DEBUG - Logging changes...
+2024-10-21 23:18:57,538 - DEBUG - Logging changes...
+2024-10-21 23:19:02,544 - DEBUG - Logging changes...
+2024-10-21 23:19:07,555 - DEBUG - Logging changes...
+2024-10-21 23:19:12,567 - DEBUG - Logging changes...
+2024-10-21 23:19:17,579 - DEBUG - Logging changes...
+2024-10-21 23:19:22,590 - DEBUG - Logging changes...
+2024-10-21 23:19:27,599 - DEBUG - Logging changes...
+2024-10-21 23:19:32,607 - DEBUG - Logging changes...
+2024-10-21 23:19:37,621 - DEBUG - Logging changes...
+2024-10-21 23:19:42,636 - DEBUG - Logging changes...
+2024-10-21 23:19:47,649 - DEBUG - Logging changes...
+2024-10-21 23:19:52,655 - DEBUG - Logging changes...
+2024-10-21 23:19:57,667 - DEBUG - Logging changes...
+2024-10-21 23:20:02,682 - DEBUG - Logging changes...
+2024-10-21 23:20:07,697 - DEBUG - Logging changes...
+2024-10-21 23:20:12,699 - DEBUG - Logging changes...
+2024-10-21 23:20:17,707 - DEBUG - Logging changes...
+2024-10-21 23:20:22,709 - DEBUG - Logging changes...
+2024-10-21 23:20:27,713 - DEBUG - Logging changes...
+2024-10-21 23:20:32,720 - DEBUG - Logging changes...
+2024-10-21 23:20:37,722 - DEBUG - Logging changes...
+2024-10-21 23:20:42,729 - DEBUG - Logging changes...
+2024-10-21 23:20:47,735 - DEBUG - Logging changes...
+2024-10-21 23:20:52,736 - DEBUG - Logging changes...
+2024-10-21 23:20:57,747 - DEBUG - Logging changes...
+2024-10-21 23:21:02,756 - DEBUG - Logging changes...
+2024-10-21 23:21:07,768 - DEBUG - Logging changes...
+2024-10-21 23:21:12,781 - DEBUG - Logging changes...
+2024-10-21 23:21:17,784 - DEBUG - Logging changes...
+2024-10-21 23:21:22,792 - DEBUG - Logging changes...
+2024-10-21 23:21:27,799 - DEBUG - Logging changes...
+2024-10-21 23:21:32,801 - DEBUG - Logging changes...
+2024-10-21 23:21:37,807 - DEBUG - Logging changes...
+2024-10-21 23:21:42,821 - DEBUG - Logging changes...
+2024-10-21 23:21:47,824 - DEBUG - Logging changes...
+2024-10-21 23:21:52,828 - DEBUG - Logging changes...
+2024-10-21 23:21:57,833 - DEBUG - Logging changes...
+2024-10-21 23:22:02,847 - DEBUG - Logging changes...
+2024-10-21 23:22:07,856 - DEBUG - Logging changes...
+2024-10-21 23:22:12,866 - DEBUG - Logging changes...
+2024-10-21 23:22:17,874 - DEBUG - Logging changes...
+2024-10-21 23:22:22,890 - DEBUG - Logging changes...
+2024-10-21 23:22:27,901 - DEBUG - Logging changes...
+2024-10-21 23:22:32,904 - DEBUG - Logging changes...
+2024-10-21 23:22:37,906 - DEBUG - Logging changes...
+2024-10-21 23:22:42,912 - DEBUG - Logging changes...
+2024-10-21 23:22:47,925 - DEBUG - Logging changes...
+2024-10-21 23:22:52,938 - DEBUG - Logging changes...
+2024-10-21 23:22:57,943 - DEBUG - Logging changes...
+2024-10-21 23:23:02,956 - DEBUG - Logging changes...
+2024-10-21 23:23:07,968 - DEBUG - Logging changes...
+2024-10-21 23:23:12,981 - DEBUG - Logging changes...
+2024-10-21 23:23:17,993 - DEBUG - Logging changes...
+2024-10-21 23:23:23,003 - DEBUG - Logging changes...
+2024-10-21 23:23:28,016 - DEBUG - Logging changes...
+2024-10-21 23:23:33,018 - DEBUG - Logging changes...
+2024-10-21 23:23:38,026 - DEBUG - Logging changes...
+2024-10-21 23:23:43,034 - DEBUG - Logging changes...
+2024-10-21 23:23:48,049 - DEBUG - Logging changes...
+2024-10-21 23:23:53,061 - DEBUG - Logging changes...
+2024-10-21 23:23:58,066 - DEBUG - Logging changes...
+2024-10-21 23:24:03,079 - DEBUG - Logging changes...
+2024-10-21 23:24:08,092 - DEBUG - Logging changes...
+2024-10-21 23:24:13,099 - DEBUG - Logging changes...
+2024-10-21 23:24:18,110 - DEBUG - Logging changes...
+2024-10-21 23:24:23,112 - DEBUG - Logging changes...
+2024-10-21 23:50:13,496 - INFO - Starting the RTF server...
+2024-10-21 23:50:13,496 - DEBUG - Using proactor: IocpProactor
+2024-10-21 23:50:13,497 - DEBUG - Using AsyncIOEngine.POLLER as I/O engine
+2024-10-21 23:50:13,500 - INFO - RTFService initialized with document content: 'hello!'
+2024-10-21 23:50:13,502 - INFO - Starting gRPC server on port 50051
+2024-10-21 23:50:18,518 - DEBUG - Logging changes...
+2024-10-21 23:50:23,530 - DEBUG - Logging changes...
+2024-10-21 23:50:28,536 - DEBUG - Logging changes...
+2024-10-21 23:50:33,537 - DEBUG - Logging changes...
+2024-10-21 23:50:38,548 - DEBUG - Logging changes...
+2024-10-21 23:50:43,549 - DEBUG - Logging changes...
+2024-10-21 23:50:48,563 - DEBUG - Logging changes...
+2024-10-21 23:50:53,564 - DEBUG - Logging changes...
+2024-10-21 23:50:58,575 - DEBUG - Logging changes...
+2024-10-21 23:51:03,583 - DEBUG - Logging changes...
+2024-10-21 23:51:08,594 - DEBUG - Logging changes...
+2024-10-21 23:51:13,607 - DEBUG - Logging changes...
+2024-10-21 23:51:18,622 - DEBUG - Logging changes...
+2024-10-21 23:51:23,625 - DEBUG - Logging changes...
+2024-10-21 23:51:28,638 - DEBUG - Logging changes...
+2024-10-21 23:51:33,653 - DEBUG - Logging changes...
+2024-10-21 23:51:38,657 - DEBUG - Logging changes...
+2024-10-21 23:51:43,657 - DEBUG - Logging changes...
+2024-10-21 23:51:48,670 - DEBUG - Logging changes...
+2024-10-21 23:51:53,677 - DEBUG - Logging changes...
+2024-10-21 23:51:58,680 - DEBUG - Logging changes...
+2024-10-21 23:52:03,685 - DEBUG - Logging changes...
+2024-10-21 23:52:08,700 - DEBUG - Logging changes...
+2024-10-21 23:52:13,710 - DEBUG - Logging changes...
+2024-10-21 23:52:18,713 - DEBUG - Logging changes...
+2024-10-21 23:52:23,726 - DEBUG - Logging changes...
+2024-10-21 23:52:28,732 - DEBUG - Logging changes...
+2024-10-21 23:52:33,744 - DEBUG - Logging changes...
+2024-10-21 23:52:38,758 - DEBUG - Logging changes...
+2024-10-21 23:52:43,766 - DEBUG - Logging changes...
+2024-10-21 23:52:45,075 - INFO - Client initialized with content: 'hello!' and last change: 0
+2024-10-21 23:52:47,246 - INFO - Client initialized with content: 'hello!' and last change: 0
+2024-10-21 23:52:48,769 - DEBUG - Logging changes...
+2024-10-21 23:52:51,158 - INFO - Received change from client 537: client_id: "537"
+change_type: "insert"
+charChange: "e"
+
+2024-10-21 23:52:51,159 - DEBUG - Adjusted position from 0 to 0
+2024-10-21 23:52:51,159 - INFO - Handled insert: 'e' at position 0
+2024-10-21 23:52:51,159 - INFO - Broadcasted change to all clients: client_id: "537"
+change_type: "insert"
+charChange: "e"
+changeIndex: 1
+
+2024-10-21 23:52:51,284 - INFO - Received change from client 537: client_id: "537"
+change_type: "insert"
+position: 1
+charChange: "d"
+
+2024-10-21 23:52:51,284 - ERROR - Unexpected [TypeError] raised by servicer method [/document.RTFService/SendLocalChange]
+Traceback (most recent call last):
+  File "src\\python\\grpcio\\grpc\\_cython\\_cygrpc/aio/server.pyx.pxi", line 689, in grpc._cython.cygrpc._handle_exceptions
+  File "src\\python\\grpcio\\grpc\\_cython\\_cygrpc/aio/server.pyx.pxi", line 831, in _handle_rpc
+  File "src\\python\\grpcio\\grpc\\_cython\\_cygrpc/aio/server.pyx.pxi", line 554, in _handle_unary_unary_rpc
+  File "src\\python\\grpcio\\grpc\\_cython\\_cygrpc/aio/server.pyx.pxi", line 408, in _finish_handler_with_unary_response
+  File "C:\Users\Kapil\Desktop\Y4S1\DS\HW4\Q4\server\testserver.py", line 96, in SendLocalChange
+    change = self.handleInsert(request)
+  File "C:\Users\Kapil\Desktop\Y4S1\DS\HW4\Q4\server\testserver.py", line 45, in handleInsert
+    adjusted_position = self.adjustPosition(request.changeIndex, request.position)
+  File "C:\Users\Kapil\Desktop\Y4S1\DS\HW4\Q4\server\testserver.py", line 36, in adjustPosition
+    if current_change["change_type"] == "insert" and current_change["position"] <= change_position:
+TypeError: 'DocumentChange' object is not subscriptable
+2024-10-21 23:52:51,871 - INFO - Received change from client 537: client_id: "537"
+change_type: "insert"
+position: 2
+charChange: "d"
+
+2024-10-21 23:52:51,872 - ERROR - Unexpected [TypeError] raised by servicer method [/document.RTFService/SendLocalChange]
+Traceback (most recent call last):
+  File "src\\python\\grpcio\\grpc\\_cython\\_cygrpc/aio/server.pyx.pxi", line 689, in grpc._cython.cygrpc._handle_exceptions
+  File "src\\python\\grpcio\\grpc\\_cython\\_cygrpc/aio/server.pyx.pxi", line 831, in _handle_rpc
+  File "src\\python\\grpcio\\grpc\\_cython\\_cygrpc/aio/server.pyx.pxi", line 554, in _handle_unary_unary_rpc
+  File "src\\python\\grpcio\\grpc\\_cython\\_cygrpc/aio/server.pyx.pxi", line 408, in _finish_handler_with_unary_response
+  File "C:\Users\Kapil\Desktop\Y4S1\DS\HW4\Q4\server\testserver.py", line 96, in SendLocalChange
+    change = self.handleInsert(request)
+  File "C:\Users\Kapil\Desktop\Y4S1\DS\HW4\Q4\server\testserver.py", line 45, in handleInsert
+    adjusted_position = self.adjustPosition(request.changeIndex, request.position)
+  File "C:\Users\Kapil\Desktop\Y4S1\DS\HW4\Q4\server\testserver.py", line 36, in adjustPosition
+    if current_change["change_type"] == "insert" and current_change["position"] <= change_position:
+TypeError: 'DocumentChange' object is not subscriptable
+2024-10-21 23:52:52,209 - INFO - Received change from client 537: client_id: "537"
+change_type: "insert"
+position: 3
+charChange: "d"
+
+2024-10-21 23:52:52,209 - ERROR - Unexpected [TypeError] raised by servicer method [/document.RTFService/SendLocalChange]
+Traceback (most recent call last):
+  File "src\\python\\grpcio\\grpc\\_cython\\_cygrpc/aio/server.pyx.pxi", line 689, in grpc._cython.cygrpc._handle_exceptions
+  File "src\\python\\grpcio\\grpc\\_cython\\_cygrpc/aio/server.pyx.pxi", line 831, in _handle_rpc
+  File "src\\python\\grpcio\\grpc\\_cython\\_cygrpc/aio/server.pyx.pxi", line 554, in _handle_unary_unary_rpc
+  File "src\\python\\grpcio\\grpc\\_cython\\_cygrpc/aio/server.pyx.pxi", line 408, in _finish_handler_with_unary_response
+  File "C:\Users\Kapil\Desktop\Y4S1\DS\HW4\Q4\server\testserver.py", line 96, in SendLocalChange
+    change = self.handleInsert(request)
+  File "C:\Users\Kapil\Desktop\Y4S1\DS\HW4\Q4\server\testserver.py", line 45, in handleInsert
+    adjusted_position = self.adjustPosition(request.changeIndex, request.position)
+  File "C:\Users\Kapil\Desktop\Y4S1\DS\HW4\Q4\server\testserver.py", line 36, in adjustPosition
+    if current_change["change_type"] == "insert" and current_change["position"] <= change_position:
+TypeError: 'DocumentChange' object is not subscriptable
+2024-10-21 23:52:52,350 - INFO - Received change from client 537: client_id: "537"
+change_type: "insert"
+position: 4
+charChange: "s"
+
+2024-10-21 23:52:52,350 - ERROR - Unexpected [TypeError] raised by servicer method [/document.RTFService/SendLocalChange]
+Traceback (most recent call last):
+  File "src\\python\\grpcio\\grpc\\_cython\\_cygrpc/aio/server.pyx.pxi", line 689, in grpc._cython.cygrpc._handle_exceptions
+  File "src\\python\\grpcio\\grpc\\_cython\\_cygrpc/aio/server.pyx.pxi", line 831, in _handle_rpc
+  File "src\\python\\grpcio\\grpc\\_cython\\_cygrpc/aio/server.pyx.pxi", line 554, in _handle_unary_unary_rpc
+  File "src\\python\\grpcio\\grpc\\_cython\\_cygrpc/aio/server.pyx.pxi", line 408, in _finish_handler_with_unary_response
+  File "C:\Users\Kapil\Desktop\Y4S1\DS\HW4\Q4\server\testserver.py", line 96, in SendLocalChange
+    change = self.handleInsert(request)
+  File "C:\Users\Kapil\Desktop\Y4S1\DS\HW4\Q4\server\testserver.py", line 45, in handleInsert
+    adjusted_position = self.adjustPosition(request.changeIndex, request.position)
+  File "C:\Users\Kapil\Desktop\Y4S1\DS\HW4\Q4\server\testserver.py", line 36, in adjustPosition
+    if current_change["change_type"] == "insert" and current_change["position"] <= change_position:
+TypeError: 'DocumentChange' object is not subscriptable
+2024-10-21 23:52:52,428 - INFO - Received change from client 537: client_id: "537"
+change_type: "insert"
+position: 5
+charChange: "d"
+
+2024-10-21 23:52:52,428 - ERROR - Unexpected [TypeError] raised by servicer method [/document.RTFService/SendLocalChange]
+Traceback (most recent call last):
+  File "src\\python\\grpcio\\grpc\\_cython\\_cygrpc/aio/server.pyx.pxi", line 689, in grpc._cython.cygrpc._handle_exceptions
+  File "src\\python\\grpcio\\grpc\\_cython\\_cygrpc/aio/server.pyx.pxi", line 831, in _handle_rpc
+  File "src\\python\\grpcio\\grpc\\_cython\\_cygrpc/aio/server.pyx.pxi", line 554, in _handle_unary_unary_rpc
+  File "src\\python\\grpcio\\grpc\\_cython\\_cygrpc/aio/server.pyx.pxi", line 408, in _finish_handler_with_unary_response
+  File "C:\Users\Kapil\Desktop\Y4S1\DS\HW4\Q4\server\testserver.py", line 96, in SendLocalChange
+    change = self.handleInsert(request)
+  File "C:\Users\Kapil\Desktop\Y4S1\DS\HW4\Q4\server\testserver.py", line 45, in handleInsert
+    adjusted_position = self.adjustPosition(request.changeIndex, request.position)
+  File "C:\Users\Kapil\Desktop\Y4S1\DS\HW4\Q4\server\testserver.py", line 36, in adjustPosition
+    if current_change["change_type"] == "insert" and current_change["position"] <= change_position:
+TypeError: 'DocumentChange' object is not subscriptable
+2024-10-21 23:52:52,566 - INFO - Received change from client 537: client_id: "537"
+change_type: "insert"
+position: 6
+charChange: "s"
+
+2024-10-21 23:52:52,566 - ERROR - Unexpected [TypeError] raised by servicer method [/document.RTFService/SendLocalChange]
+Traceback (most recent call last):
+  File "src\\python\\grpcio\\grpc\\_cython\\_cygrpc/aio/server.pyx.pxi", line 689, in grpc._cython.cygrpc._handle_exceptions
+  File "src\\python\\grpcio\\grpc\\_cython\\_cygrpc/aio/server.pyx.pxi", line 831, in _handle_rpc
+  File "src\\python\\grpcio\\grpc\\_cython\\_cygrpc/aio/server.pyx.pxi", line 554, in _handle_unary_unary_rpc
+  File "src\\python\\grpcio\\grpc\\_cython\\_cygrpc/aio/server.pyx.pxi", line 408, in _finish_handler_with_unary_response
+  File "C:\Users\Kapil\Desktop\Y4S1\DS\HW4\Q4\server\testserver.py", line 96, in SendLocalChange
+    change = self.handleInsert(request)
+  File "C:\Users\Kapil\Desktop\Y4S1\DS\HW4\Q4\server\testserver.py", line 45, in handleInsert
+    adjusted_position = self.adjustPosition(request.changeIndex, request.position)
+  File "C:\Users\Kapil\Desktop\Y4S1\DS\HW4\Q4\server\testserver.py", line 36, in adjustPosition
+    if current_change["change_type"] == "insert" and current_change["position"] <= change_position:
+TypeError: 'DocumentChange' object is not subscriptable
+2024-10-21 23:52:52,706 - INFO - Received change from client 537: client_id: "537"
+change_type: "insert"
+position: 7
+charChange: "e"
+
+2024-10-21 23:52:52,706 - ERROR - Unexpected [TypeError] raised by servicer method [/document.RTFService/SendLocalChange]
+Traceback (most recent call last):
+  File "src\\python\\grpcio\\grpc\\_cython\\_cygrpc/aio/server.pyx.pxi", line 689, in grpc._cython.cygrpc._handle_exceptions
+  File "src\\python\\grpcio\\grpc\\_cython\\_cygrpc/aio/server.pyx.pxi", line 831, in _handle_rpc
+  File "src\\python\\grpcio\\grpc\\_cython\\_cygrpc/aio/server.pyx.pxi", line 554, in _handle_unary_unary_rpc
+  File "src\\python\\grpcio\\grpc\\_cython\\_cygrpc/aio/server.pyx.pxi", line 408, in _finish_handler_with_unary_response
+  File "C:\Users\Kapil\Desktop\Y4S1\DS\HW4\Q4\server\testserver.py", line 96, in SendLocalChange
+    change = self.handleInsert(request)
+  File "C:\Users\Kapil\Desktop\Y4S1\DS\HW4\Q4\server\testserver.py", line 45, in handleInsert
+    adjusted_position = self.adjustPosition(request.changeIndex, request.position)
+  File "C:\Users\Kapil\Desktop\Y4S1\DS\HW4\Q4\server\testserver.py", line 36, in adjustPosition
+    if current_change["change_type"] == "insert" and current_change["position"] <= change_position:
+TypeError: 'DocumentChange' object is not subscriptable
+2024-10-21 23:52:52,846 - INFO - Received change from client 537: client_id: "537"
+change_type: "insert"
+position: 8
+charChange: "e"
+
+2024-10-21 23:52:52,846 - ERROR - Unexpected [TypeError] raised by servicer method [/document.RTFService/SendLocalChange]
+Traceback (most recent call last):
+  File "src\\python\\grpcio\\grpc\\_cython\\_cygrpc/aio/server.pyx.pxi", line 689, in grpc._cython.cygrpc._handle_exceptions
+  File "src\\python\\grpcio\\grpc\\_cython\\_cygrpc/aio/server.pyx.pxi", line 831, in _handle_rpc
+  File "src\\python\\grpcio\\grpc\\_cython\\_cygrpc/aio/server.pyx.pxi", line 554, in _handle_unary_unary_rpc
+  File "src\\python\\grpcio\\grpc\\_cython\\_cygrpc/aio/server.pyx.pxi", line 408, in _finish_handler_with_unary_response
+  File "C:\Users\Kapil\Desktop\Y4S1\DS\HW4\Q4\server\testserver.py", line 96, in SendLocalChange
+    change = self.handleInsert(request)
+  File "C:\Users\Kapil\Desktop\Y4S1\DS\HW4\Q4\server\testserver.py", line 45, in handleInsert
+    adjusted_position = self.adjustPosition(request.changeIndex, request.position)
+  File "C:\Users\Kapil\Desktop\Y4S1\DS\HW4\Q4\server\testserver.py", line 36, in adjustPosition
+    if current_change["change_type"] == "insert" and current_change["position"] <= change_position:
+TypeError: 'DocumentChange' object is not subscriptable
+2024-10-21 23:52:52,923 - INFO - Received change from client 537: client_id: "537"
+change_type: "insert"
+position: 9
+charChange: "s"
+
+2024-10-21 23:52:52,923 - ERROR - Unexpected [TypeError] raised by servicer method [/document.RTFService/SendLocalChange]
+Traceback (most recent call last):
+  File "src\\python\\grpcio\\grpc\\_cython\\_cygrpc/aio/server.pyx.pxi", line 689, in grpc._cython.cygrpc._handle_exceptions
+  File "src\\python\\grpcio\\grpc\\_cython\\_cygrpc/aio/server.pyx.pxi", line 831, in _handle_rpc
+  File "src\\python\\grpcio\\grpc\\_cython\\_cygrpc/aio/server.pyx.pxi", line 554, in _handle_unary_unary_rpc
+  File "src\\python\\grpcio\\grpc\\_cython\\_cygrpc/aio/server.pyx.pxi", line 408, in _finish_handler_with_unary_response
+  File "C:\Users\Kapil\Desktop\Y4S1\DS\HW4\Q4\server\testserver.py", line 96, in SendLocalChange
+    change = self.handleInsert(request)
+  File "C:\Users\Kapil\Desktop\Y4S1\DS\HW4\Q4\server\testserver.py", line 45, in handleInsert
+    adjusted_position = self.adjustPosition(request.changeIndex, request.position)
+  File "C:\Users\Kapil\Desktop\Y4S1\DS\HW4\Q4\server\testserver.py", line 36, in adjustPosition
+    if current_change["change_type"] == "insert" and current_change["position"] <= change_position:
+TypeError: 'DocumentChange' object is not subscriptable
+2024-10-21 23:52:53,003 - INFO - Received change from client 537: client_id: "537"
+change_type: "insert"
+position: 10
+charChange: "d"
+
+2024-10-21 23:52:53,003 - ERROR - Unexpected [TypeError] raised by servicer method [/document.RTFService/SendLocalChange]
+Traceback (most recent call last):
+  File "src\\python\\grpcio\\grpc\\_cython\\_cygrpc/aio/server.pyx.pxi", line 689, in grpc._cython.cygrpc._handle_exceptions
+  File "src\\python\\grpcio\\grpc\\_cython\\_cygrpc/aio/server.pyx.pxi", line 831, in _handle_rpc
+  File "src\\python\\grpcio\\grpc\\_cython\\_cygrpc/aio/server.pyx.pxi", line 554, in _handle_unary_unary_rpc
+  File "src\\python\\grpcio\\grpc\\_cython\\_cygrpc/aio/server.pyx.pxi", line 408, in _finish_handler_with_unary_response
+  File "C:\Users\Kapil\Desktop\Y4S1\DS\HW4\Q4\server\testserver.py", line 96, in SendLocalChange
+    change = self.handleInsert(request)
+  File "C:\Users\Kapil\Desktop\Y4S1\DS\HW4\Q4\server\testserver.py", line 45, in handleInsert
+    adjusted_position = self.adjustPosition(request.changeIndex, request.position)
+  File "C:\Users\Kapil\Desktop\Y4S1\DS\HW4\Q4\server\testserver.py", line 36, in adjustPosition
+    if current_change["change_type"] == "insert" and current_change["position"] <= change_position:
+TypeError: 'DocumentChange' object is not subscriptable
+2024-10-21 23:52:53,141 - INFO - Received change from client 537: client_id: "537"
+change_type: "insert"
+position: 11
+charChange: "s"
+
+2024-10-21 23:52:53,141 - ERROR - Unexpected [TypeError] raised by servicer method [/document.RTFService/SendLocalChange]
+Traceback (most recent call last):
+  File "src\\python\\grpcio\\grpc\\_cython\\_cygrpc/aio/server.pyx.pxi", line 689, in grpc._cython.cygrpc._handle_exceptions
+  File "src\\python\\grpcio\\grpc\\_cython\\_cygrpc/aio/server.pyx.pxi", line 831, in _handle_rpc
+  File "src\\python\\grpcio\\grpc\\_cython\\_cygrpc/aio/server.pyx.pxi", line 554, in _handle_unary_unary_rpc
+  File "src\\python\\grpcio\\grpc\\_cython\\_cygrpc/aio/server.pyx.pxi", line 408, in _finish_handler_with_unary_response
+  File "C:\Users\Kapil\Desktop\Y4S1\DS\HW4\Q4\server\testserver.py", line 96, in SendLocalChange
+    change = self.handleInsert(request)
+  File "C:\Users\Kapil\Desktop\Y4S1\DS\HW4\Q4\server\testserver.py", line 45, in handleInsert
+    adjusted_position = self.adjustPosition(request.changeIndex, request.position)
+  File "C:\Users\Kapil\Desktop\Y4S1\DS\HW4\Q4\server\testserver.py", line 36, in adjustPosition
+    if current_change["change_type"] == "insert" and current_change["position"] <= change_position:
+TypeError: 'DocumentChange' object is not subscriptable
+2024-10-21 23:52:53,281 - INFO - Received change from client 537: client_id: "537"
+change_type: "insert"
+position: 12
+charChange: "d"
+
+2024-10-21 23:52:53,281 - ERROR - Unexpected [TypeError] raised by servicer method [/document.RTFService/SendLocalChange]
+Traceback (most recent call last):
+  File "src\\python\\grpcio\\grpc\\_cython\\_cygrpc/aio/server.pyx.pxi", line 689, in grpc._cython.cygrpc._handle_exceptions
+  File "src\\python\\grpcio\\grpc\\_cython\\_cygrpc/aio/server.pyx.pxi", line 831, in _handle_rpc
+  File "src\\python\\grpcio\\grpc\\_cython\\_cygrpc/aio/server.pyx.pxi", line 554, in _handle_unary_unary_rpc
+  File "src\\python\\grpcio\\grpc\\_cython\\_cygrpc/aio/server.pyx.pxi", line 408, in _finish_handler_with_unary_response
+  File "C:\Users\Kapil\Desktop\Y4S1\DS\HW4\Q4\server\testserver.py", line 96, in SendLocalChange
+    change = self.handleInsert(request)
+  File "C:\Users\Kapil\Desktop\Y4S1\DS\HW4\Q4\server\testserver.py", line 45, in handleInsert
+    adjusted_position = self.adjustPosition(request.changeIndex, request.position)
+  File "C:\Users\Kapil\Desktop\Y4S1\DS\HW4\Q4\server\testserver.py", line 36, in adjustPosition
+    if current_change["change_type"] == "insert" and current_change["position"] <= change_position:
+TypeError: 'DocumentChange' object is not subscriptable
+2024-10-21 23:52:53,780 - DEBUG - Logging changes...
+2024-10-21 23:52:55,511 - INFO - Received change from client 369: client_id: "369"
+change_type: "insert"
+charChange: "d"
+
+2024-10-21 23:52:55,511 - ERROR - Unexpected [TypeError] raised by servicer method [/document.RTFService/SendLocalChange]
+Traceback (most recent call last):
+  File "src\\python\\grpcio\\grpc\\_cython\\_cygrpc/aio/server.pyx.pxi", line 689, in grpc._cython.cygrpc._handle_exceptions
+  File "src\\python\\grpcio\\grpc\\_cython\\_cygrpc/aio/server.pyx.pxi", line 831, in _handle_rpc
+  File "src\\python\\grpcio\\grpc\\_cython\\_cygrpc/aio/server.pyx.pxi", line 554, in _handle_unary_unary_rpc
+  File "src\\python\\grpcio\\grpc\\_cython\\_cygrpc/aio/server.pyx.pxi", line 408, in _finish_handler_with_unary_response
+  File "C:\Users\Kapil\Desktop\Y4S1\DS\HW4\Q4\server\testserver.py", line 96, in SendLocalChange
+    change = self.handleInsert(request)
+  File "C:\Users\Kapil\Desktop\Y4S1\DS\HW4\Q4\server\testserver.py", line 45, in handleInsert
+    adjusted_position = self.adjustPosition(request.changeIndex, request.position)
+  File "C:\Users\Kapil\Desktop\Y4S1\DS\HW4\Q4\server\testserver.py", line 36, in adjustPosition
+    if current_change["change_type"] == "insert" and current_change["position"] <= change_position:
+TypeError: 'DocumentChange' object is not subscriptable
+2024-10-21 23:52:55,589 - INFO - Received change from client 369: client_id: "369"
+change_type: "insert"
+position: 1
+charChange: "s"
+
+2024-10-21 23:52:55,589 - ERROR - Unexpected [TypeError] raised by servicer method [/document.RTFService/SendLocalChange]
+Traceback (most recent call last):
+  File "src\\python\\grpcio\\grpc\\_cython\\_cygrpc/aio/server.pyx.pxi", line 689, in grpc._cython.cygrpc._handle_exceptions
+  File "src\\python\\grpcio\\grpc\\_cython\\_cygrpc/aio/server.pyx.pxi", line 831, in _handle_rpc
+  File "src\\python\\grpcio\\grpc\\_cython\\_cygrpc/aio/server.pyx.pxi", line 554, in _handle_unary_unary_rpc
+  File "src\\python\\grpcio\\grpc\\_cython\\_cygrpc/aio/server.pyx.pxi", line 408, in _finish_handler_with_unary_response
+  File "C:\Users\Kapil\Desktop\Y4S1\DS\HW4\Q4\server\testserver.py", line 96, in SendLocalChange
+    change = self.handleInsert(request)
+  File "C:\Users\Kapil\Desktop\Y4S1\DS\HW4\Q4\server\testserver.py", line 45, in handleInsert
+    adjusted_position = self.adjustPosition(request.changeIndex, request.position)
+  File "C:\Users\Kapil\Desktop\Y4S1\DS\HW4\Q4\server\testserver.py", line 36, in adjustPosition
+    if current_change["change_type"] == "insert" and current_change["position"] <= change_position:
+TypeError: 'DocumentChange' object is not subscriptable
+2024-10-21 23:52:55,666 - INFO - Received change from client 369: client_id: "369"
+change_type: "insert"
+position: 2
+charChange: "w"
+
+2024-10-21 23:52:55,666 - ERROR - Unexpected [TypeError] raised by servicer method [/document.RTFService/SendLocalChange]
+Traceback (most recent call last):
+  File "src\\python\\grpcio\\grpc\\_cython\\_cygrpc/aio/server.pyx.pxi", line 689, in grpc._cython.cygrpc._handle_exceptions
+  File "src\\python\\grpcio\\grpc\\_cython\\_cygrpc/aio/server.pyx.pxi", line 831, in _handle_rpc
+  File "src\\python\\grpcio\\grpc\\_cython\\_cygrpc/aio/server.pyx.pxi", line 554, in _handle_unary_unary_rpc
+  File "src\\python\\grpcio\\grpc\\_cython\\_cygrpc/aio/server.pyx.pxi", line 408, in _finish_handler_with_unary_response
+  File "C:\Users\Kapil\Desktop\Y4S1\DS\HW4\Q4\server\testserver.py", line 96, in SendLocalChange
+    change = self.handleInsert(request)
+  File "C:\Users\Kapil\Desktop\Y4S1\DS\HW4\Q4\server\testserver.py", line 45, in handleInsert
+    adjusted_position = self.adjustPosition(request.changeIndex, request.position)
+  File "C:\Users\Kapil\Desktop\Y4S1\DS\HW4\Q4\server\testserver.py", line 36, in adjustPosition
+    if current_change["change_type"] == "insert" and current_change["position"] <= change_position:
+TypeError: 'DocumentChange' object is not subscriptable
+2024-10-21 23:52:55,744 - INFO - Received change from client 369: client_id: "369"
+change_type: "insert"
+position: 3
+charChange: "d"
+
+2024-10-21 23:52:55,744 - ERROR - Unexpected [TypeError] raised by servicer method [/document.RTFService/SendLocalChange]
+Traceback (most recent call last):
+  File "src\\python\\grpcio\\grpc\\_cython\\_cygrpc/aio/server.pyx.pxi", line 689, in grpc._cython.cygrpc._handle_exceptions
+  File "src\\python\\grpcio\\grpc\\_cython\\_cygrpc/aio/server.pyx.pxi", line 831, in _handle_rpc
+  File "src\\python\\grpcio\\grpc\\_cython\\_cygrpc/aio/server.pyx.pxi", line 554, in _handle_unary_unary_rpc
+  File "src\\python\\grpcio\\grpc\\_cython\\_cygrpc/aio/server.pyx.pxi", line 408, in _finish_handler_with_unary_response
+  File "C:\Users\Kapil\Desktop\Y4S1\DS\HW4\Q4\server\testserver.py", line 96, in SendLocalChange
+    change = self.handleInsert(request)
+  File "C:\Users\Kapil\Desktop\Y4S1\DS\HW4\Q4\server\testserver.py", line 45, in handleInsert
+    adjusted_position = self.adjustPosition(request.changeIndex, request.position)
+  File "C:\Users\Kapil\Desktop\Y4S1\DS\HW4\Q4\server\testserver.py", line 36, in adjustPosition
+    if current_change["change_type"] == "insert" and current_change["position"] <= change_position:
+TypeError: 'DocumentChange' object is not subscriptable
+2024-10-21 23:52:55,898 - INFO - Received change from client 369: client_id: "369"
+change_type: "insert"
+position: 4
+charChange: "w"
+
+2024-10-21 23:52:55,898 - ERROR - Unexpected [TypeError] raised by servicer method [/document.RTFService/SendLocalChange]
+Traceback (most recent call last):
+  File "src\\python\\grpcio\\grpc\\_cython\\_cygrpc/aio/server.pyx.pxi", line 689, in grpc._cython.cygrpc._handle_exceptions
+  File "src\\python\\grpcio\\grpc\\_cython\\_cygrpc/aio/server.pyx.pxi", line 831, in _handle_rpc
+  File "src\\python\\grpcio\\grpc\\_cython\\_cygrpc/aio/server.pyx.pxi", line 554, in _handle_unary_unary_rpc
+  File "src\\python\\grpcio\\grpc\\_cython\\_cygrpc/aio/server.pyx.pxi", line 408, in _finish_handler_with_unary_response
+  File "C:\Users\Kapil\Desktop\Y4S1\DS\HW4\Q4\server\testserver.py", line 96, in SendLocalChange
+    change = self.handleInsert(request)
+  File "C:\Users\Kapil\Desktop\Y4S1\DS\HW4\Q4\server\testserver.py", line 45, in handleInsert
+    adjusted_position = self.adjustPosition(request.changeIndex, request.position)
+  File "C:\Users\Kapil\Desktop\Y4S1\DS\HW4\Q4\server\testserver.py", line 36, in adjustPosition
+    if current_change["change_type"] == "insert" and current_change["position"] <= change_position:
+TypeError: 'DocumentChange' object is not subscriptable
+2024-10-21 23:52:55,922 - INFO - Received change from client 369: client_id: "369"
+change_type: "insert"
+position: 5
+charChange: "s"
+
+2024-10-21 23:52:55,922 - ERROR - Unexpected [TypeError] raised by servicer method [/document.RTFService/SendLocalChange]
+Traceback (most recent call last):
+  File "src\\python\\grpcio\\grpc\\_cython\\_cygrpc/aio/server.pyx.pxi", line 689, in grpc._cython.cygrpc._handle_exceptions
+  File "src\\python\\grpcio\\grpc\\_cython\\_cygrpc/aio/server.pyx.pxi", line 831, in _handle_rpc
+  File "src\\python\\grpcio\\grpc\\_cython\\_cygrpc/aio/server.pyx.pxi", line 554, in _handle_unary_unary_rpc
+  File "src\\python\\grpcio\\grpc\\_cython\\_cygrpc/aio/server.pyx.pxi", line 408, in _finish_handler_with_unary_response
+  File "C:\Users\Kapil\Desktop\Y4S1\DS\HW4\Q4\server\testserver.py", line 96, in SendLocalChange
+    change = self.handleInsert(request)
+  File "C:\Users\Kapil\Desktop\Y4S1\DS\HW4\Q4\server\testserver.py", line 45, in handleInsert
+    adjusted_position = self.adjustPosition(request.changeIndex, request.position)
+  File "C:\Users\Kapil\Desktop\Y4S1\DS\HW4\Q4\server\testserver.py", line 36, in adjustPosition
+    if current_change["change_type"] == "insert" and current_change["position"] <= change_position:
+TypeError: 'DocumentChange' object is not subscriptable
+2024-10-21 23:52:56,010 - INFO - Received change from client 369: client_id: "369"
+change_type: "insert"
+position: 6
+charChange: "d"
+
+2024-10-21 23:52:56,010 - ERROR - Unexpected [TypeError] raised by servicer method [/document.RTFService/SendLocalChange]
+Traceback (most recent call last):
+  File "src\\python\\grpcio\\grpc\\_cython\\_cygrpc/aio/server.pyx.pxi", line 689, in grpc._cython.cygrpc._handle_exceptions
+  File "src\\python\\grpcio\\grpc\\_cython\\_cygrpc/aio/server.pyx.pxi", line 831, in _handle_rpc
+  File "src\\python\\grpcio\\grpc\\_cython\\_cygrpc/aio/server.pyx.pxi", line 554, in _handle_unary_unary_rpc
+  File "src\\python\\grpcio\\grpc\\_cython\\_cygrpc/aio/server.pyx.pxi", line 408, in _finish_handler_with_unary_response
+  File "C:\Users\Kapil\Desktop\Y4S1\DS\HW4\Q4\server\testserver.py", line 96, in SendLocalChange
+    change = self.handleInsert(request)
+  File "C:\Users\Kapil\Desktop\Y4S1\DS\HW4\Q4\server\testserver.py", line 45, in handleInsert
+    adjusted_position = self.adjustPosition(request.changeIndex, request.position)
+  File "C:\Users\Kapil\Desktop\Y4S1\DS\HW4\Q4\server\testserver.py", line 36, in adjustPosition
+    if current_change["change_type"] == "insert" and current_change["position"] <= change_position:
+TypeError: 'DocumentChange' object is not subscriptable
+2024-10-21 23:52:56,094 - DEBUG - Exception while consuming the request_iterator: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNAVAILABLE
+	details = "failed to connect to all addresses; last error: UNAVAILABLE: ipv4:127.0.0.1:50052: ConnectEx: Connection refused (No connection could be made because the target machine actively refused it.
+ -- 10061)"
+	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"failed to connect to all addresses; last error: UNAVAILABLE: ipv4:127.0.0.1:50052: ConnectEx: Connection refused (No connection could be made because the target machine actively refused it.\r\n -- 10061)", grpc_status:14, created_time:"2024-10-21T18:22:56.087457+00:00"}"
+>
+2024-10-21 23:52:56,095 - ERROR - Task exception was never retrieved
+future: <Task finished name='Task-2' coro=<RTFServiceServicer.LogChanges() done, defined at C:\Users\Kapil\Desktop\Y4S1\DS\HW4\Q4\server\testserver.py:107> exception=<AioRpcError of RPC that terminated with:
+	status = StatusCode.UNAVAILABLE
+	details = "failed to connect to all addresses; last error: UNAVAILABLE: ipv4:127.0.0.1:50052: ConnectEx: Connection refused (No connection could be made because the target machine actively refused it.
+ -- 10061)"
+	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"failed to connect to all addresses; last error: UNAVAILABLE: ipv4:127.0.0.1:50052: ConnectEx: Connection refused (No connection could be made because the target machine actively refused it.\r\n -- 10061)", grpc_status:14, created_time:"2024-10-21T18:22:56.087457+00:00"}"
+>>
+Traceback (most recent call last):
+  File "C:\Users\Kapil\Desktop\Y4S1\DS\HW4\Q4\server\testserver.py", line 120, in LogChanges
+    response = await self.stub.LogChanges(iter(request_iterator))
+  File "C:\Users\Kapil\anaconda3\lib\site-packages\grpc\aio\_call.py", line 327, in __await__
+    raise _create_rpc_error(
+grpc.aio._call.AioRpcError: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNAVAILABLE
+	details = "failed to connect to all addresses; last error: UNAVAILABLE: ipv4:127.0.0.1:50052: ConnectEx: Connection refused (No connection could be made because the target machine actively refused it.
+ -- 10061)"
+	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"failed to connect to all addresses; last error: UNAVAILABLE: ipv4:127.0.0.1:50052: ConnectEx: Connection refused (No connection could be made because the target machine actively refused it.\r\n -- 10061)", grpc_status:14, created_time:"2024-10-21T18:22:56.087457+00:00"}"
+>
+2024-10-21 23:52:56,211 - INFO - Received change from client 369: client_id: "369"
+change_type: "insert"
+position: 7
+charChange: "w"
+
+2024-10-21 23:52:56,211 - ERROR - Unexpected [TypeError] raised by servicer method [/document.RTFService/SendLocalChange]
+Traceback (most recent call last):
+  File "src\\python\\grpcio\\grpc\\_cython\\_cygrpc/aio/server.pyx.pxi", line 689, in grpc._cython.cygrpc._handle_exceptions
+  File "src\\python\\grpcio\\grpc\\_cython\\_cygrpc/aio/server.pyx.pxi", line 831, in _handle_rpc
+  File "src\\python\\grpcio\\grpc\\_cython\\_cygrpc/aio/server.pyx.pxi", line 554, in _handle_unary_unary_rpc
+  File "src\\python\\grpcio\\grpc\\_cython\\_cygrpc/aio/server.pyx.pxi", line 408, in _finish_handler_with_unary_response
+  File "C:\Users\Kapil\Desktop\Y4S1\DS\HW4\Q4\server\testserver.py", line 96, in SendLocalChange
+    change = self.handleInsert(request)
+  File "C:\Users\Kapil\Desktop\Y4S1\DS\HW4\Q4\server\testserver.py", line 45, in handleInsert
+    adjusted_position = self.adjustPosition(request.changeIndex, request.position)
+  File "C:\Users\Kapil\Desktop\Y4S1\DS\HW4\Q4\server\testserver.py", line 36, in adjustPosition
+    if current_change["change_type"] == "insert" and current_change["position"] <= change_position:
+TypeError: 'DocumentChange' object is not subscriptable
+2024-10-21 23:52:56,234 - INFO - Received change from client 369: client_id: "369"
+change_type: "insert"
+position: 8
+charChange: "s"
+
+2024-10-21 23:52:56,235 - ERROR - Unexpected [TypeError] raised by servicer method [/document.RTFService/SendLocalChange]
+Traceback (most recent call last):
+  File "src\\python\\grpcio\\grpc\\_cython\\_cygrpc/aio/server.pyx.pxi", line 689, in grpc._cython.cygrpc._handle_exceptions
+  File "src\\python\\grpcio\\grpc\\_cython\\_cygrpc/aio/server.pyx.pxi", line 831, in _handle_rpc
+  File "src\\python\\grpcio\\grpc\\_cython\\_cygrpc/aio/server.pyx.pxi", line 554, in _handle_unary_unary_rpc
+  File "src\\python\\grpcio\\grpc\\_cython\\_cygrpc/aio/server.pyx.pxi", line 408, in _finish_handler_with_unary_response
+  File "C:\Users\Kapil\Desktop\Y4S1\DS\HW4\Q4\server\testserver.py", line 96, in SendLocalChange
+    change = self.handleInsert(request)
+  File "C:\Users\Kapil\Desktop\Y4S1\DS\HW4\Q4\server\testserver.py", line 45, in handleInsert
+    adjusted_position = self.adjustPosition(request.changeIndex, request.position)
+  File "C:\Users\Kapil\Desktop\Y4S1\DS\HW4\Q4\server\testserver.py", line 36, in adjustPosition
+    if current_change["change_type"] == "insert" and current_change["position"] <= change_position:
+TypeError: 'DocumentChange' object is not subscriptable
+2024-10-21 23:52:56,257 - INFO - Received change from client 369: client_id: "369"
+change_type: "insert"
+position: 9
+charChange: "d"
+
+2024-10-21 23:52:56,258 - ERROR - Unexpected [TypeError] raised by servicer method [/document.RTFService/SendLocalChange]
+Traceback (most recent call last):
+  File "src\\python\\grpcio\\grpc\\_cython\\_cygrpc/aio/server.pyx.pxi", line 689, in grpc._cython.cygrpc._handle_exceptions
+  File "src\\python\\grpcio\\grpc\\_cython\\_cygrpc/aio/server.pyx.pxi", line 831, in _handle_rpc
+  File "src\\python\\grpcio\\grpc\\_cython\\_cygrpc/aio/server.pyx.pxi", line 554, in _handle_unary_unary_rpc
+  File "src\\python\\grpcio\\grpc\\_cython\\_cygrpc/aio/server.pyx.pxi", line 408, in _finish_handler_with_unary_response
+  File "C:\Users\Kapil\Desktop\Y4S1\DS\HW4\Q4\server\testserver.py", line 96, in SendLocalChange
+    change = self.handleInsert(request)
+  File "C:\Users\Kapil\Desktop\Y4S1\DS\HW4\Q4\server\testserver.py", line 45, in handleInsert
+    adjusted_position = self.adjustPosition(request.changeIndex, request.position)
+  File "C:\Users\Kapil\Desktop\Y4S1\DS\HW4\Q4\server\testserver.py", line 36, in adjustPosition
+    if current_change["change_type"] == "insert" and current_change["position"] <= change_position:
+TypeError: 'DocumentChange' object is not subscriptable
+2024-10-21 23:56:16,296 - DEBUG - __dealloc__ called on running server <grpc._cython.cygrpc.AioServer object at 0x0000021620BF40D0> with status 2
+2024-10-21 23:56:19,060 - INFO - Starting the RTF server...
+2024-10-21 23:56:19,060 - DEBUG - Using proactor: IocpProactor
+2024-10-21 23:56:19,061 - DEBUG - Using AsyncIOEngine.POLLER as I/O engine
+2024-10-21 23:56:19,063 - INFO - RTFService initialized with document content: 'hello!'
+2024-10-21 23:56:19,063 - INFO - Starting gRPC server on port 50051
+2024-10-21 23:56:24,073 - DEBUG - Logging changes...
+2024-10-21 23:56:25,759 - INFO - Client initialized with content: 'hello!' and last change: 0
+2024-10-21 23:56:28,011 - INFO - Client initialized with content: 'hello!' and last change: 0
+2024-10-21 23:56:29,083 - DEBUG - Logging changes...
+2024-10-21 23:56:29,196 - INFO - Received change from client 405: client_id: "405"
+change_type: "insert"
+charChange: "d"
+
+2024-10-21 23:56:29,196 - DEBUG - Adjusted position from 0 to 0
+2024-10-21 23:56:29,196 - INFO - Handled insert: 'd' at position 0
+2024-10-21 23:56:29,196 - INFO - Broadcasted change to all clients: client_id: "405"
+change_type: "insert"
+charChange: "d"
+changeIndex: 1
+
+2024-10-21 23:56:29,447 - INFO - Received change from client 405: client_id: "405"
+change_type: "insert"
+position: 1
+charChange: "c"
+
+2024-10-21 23:56:29,448 - DEBUG - Adjusted position from 1 to 2
+2024-10-21 23:56:29,448 - INFO - Handled insert: 'c' at position 2
+2024-10-21 23:56:29,448 - INFO - Broadcasted change to all clients: client_id: "405"
+change_type: "insert"
+position: 2
+charChange: "c"
+changeIndex: 2
+
+2024-10-21 23:56:29,571 - INFO - Received change from client 405: client_id: "405"
+change_type: "insert"
+position: 2
+charChange: "d"
+
+2024-10-21 23:56:29,571 - DEBUG - Adjusted position from 2 to 4
+2024-10-21 23:56:29,571 - INFO - Handled insert: 'd' at position 4
+2024-10-21 23:56:29,572 - INFO - Broadcasted change to all clients: client_id: "405"
+change_type: "insert"
+position: 4
+charChange: "d"
+changeIndex: 3
+
+2024-10-21 23:56:29,695 - INFO - Received change from client 405: client_id: "405"
+change_type: "insert"
+position: 3
+charChange: "c"
+
+2024-10-21 23:56:29,695 - DEBUG - Adjusted position from 3 to 5
+2024-10-21 23:56:29,695 - INFO - Handled insert: 'c' at position 5
+2024-10-21 23:56:29,696 - INFO - Broadcasted change to all clients: client_id: "405"
+change_type: "insert"
+position: 5
+charChange: "c"
+changeIndex: 4
+
+2024-10-21 23:56:29,884 - INFO - Received change from client 405: client_id: "405"
+change_type: "insert"
+position: 4
+charChange: "s"
+
+2024-10-21 23:56:29,884 - DEBUG - Adjusted position from 4 to 7
+2024-10-21 23:56:29,884 - INFO - Handled insert: 's' at position 7
+2024-10-21 23:56:29,884 - INFO - Broadcasted change to all clients: client_id: "405"
+change_type: "insert"
+position: 7
+charChange: "s"
+changeIndex: 5
+
+2024-10-21 23:56:30,070 - INFO - Received change from client 405: client_id: "405"
+change_type: "insert"
+position: 5
+charChange: "s"
+
+2024-10-21 23:56:30,070 - DEBUG - Adjusted position from 5 to 9
+2024-10-21 23:56:30,071 - INFO - Handled insert: 's' at position 9
+2024-10-21 23:56:30,071 - INFO - Broadcasted change to all clients: client_id: "405"
+change_type: "insert"
+position: 9
+charChange: "s"
+changeIndex: 6
+
+2024-10-21 23:56:30,320 - INFO - Received change from client 405: client_id: "405"
+change_type: "insert"
+position: 6
+charChange: "s"
+
+2024-10-21 23:56:30,320 - DEBUG - Adjusted position from 6 to 10
+2024-10-21 23:56:30,321 - INFO - Handled insert: 's' at position 10
+2024-10-21 23:56:30,321 - INFO - Broadcasted change to all clients: client_id: "405"
+change_type: "insert"
+position: 10
+charChange: "s"
+changeIndex: 7
+
+2024-10-21 23:56:30,445 - INFO - Received change from client 405: client_id: "405"
+change_type: "insert"
+position: 7
+charChange: "d"
+
+2024-10-21 23:56:30,445 - DEBUG - Adjusted position from 7 to 12
+2024-10-21 23:56:30,445 - INFO - Handled insert: 'd' at position 12
+2024-10-21 23:56:30,445 - INFO - Broadcasted change to all clients: client_id: "405"
+change_type: "insert"
+position: 12
+charChange: "d"
+changeIndex: 8
+
+2024-10-21 23:56:31,128 - INFO - Received change from client 791: client_id: "791"
+change_type: "insert"
+charChange: "s"
+
+2024-10-21 23:56:31,128 - DEBUG - Adjusted position from 0 to 1
+2024-10-21 23:56:31,128 - INFO - Handled insert: 's' at position 1
+2024-10-21 23:56:31,128 - INFO - Broadcasted change to all clients: client_id: "791"
+change_type: "insert"
+position: 1
+charChange: "s"
+changeIndex: 9
+
+2024-10-21 23:56:31,129 - INFO - Received change from client 791: client_id: "791"
+change_type: "insert"
+position: 1
+charChange: "d"
+
+2024-10-21 23:56:31,129 - DEBUG - Adjusted position from 1 to 3
+2024-10-21 23:56:31,129 - INFO - Handled insert: 'd' at position 3
+2024-10-21 23:56:31,129 - INFO - Broadcasted change to all clients: client_id: "791"
+change_type: "insert"
+position: 3
+charChange: "d"
+changeIndex: 10
+
+2024-10-21 23:56:31,130 - INFO - Received change from client 791: client_id: "791"
+change_type: "insert"
+position: 2
+charChange: "x"
+
+2024-10-21 23:56:31,130 - DEBUG - Adjusted position from 2 to 5
+2024-10-21 23:56:31,130 - INFO - Handled insert: 'x' at position 5
+2024-10-21 23:56:31,131 - INFO - Broadcasted change to all clients: client_id: "791"
+change_type: "insert"
+position: 5
+charChange: "x"
+changeIndex: 11
+
+2024-10-21 23:56:31,251 - INFO - Received change from client 791: client_id: "791"
+change_type: "insert"
+position: 3
+charChange: "s"
+
+2024-10-21 23:56:31,252 - DEBUG - Adjusted position from 3 to 7
+2024-10-21 23:56:31,252 - INFO - Handled insert: 's' at position 7
+2024-10-21 23:56:31,252 - INFO - Broadcasted change to all clients: client_id: "791"
+change_type: "insert"
+position: 7
+charChange: "s"
+changeIndex: 12
+
+2024-10-21 23:56:31,375 - INFO - Received change from client 791: client_id: "791"
+change_type: "insert"
+position: 4
+charChange: "x"
+
+2024-10-21 23:56:31,375 - DEBUG - Adjusted position from 4 to 9
+2024-10-21 23:56:31,376 - INFO - Handled insert: 'x' at position 9
+2024-10-21 23:56:31,376 - INFO - Broadcasted change to all clients: client_id: "791"
+change_type: "insert"
+position: 9
+charChange: "x"
+changeIndex: 13
+
+2024-10-21 23:56:31,502 - INFO - Received change from client 791: client_id: "791"
+change_type: "insert"
+position: 5
+charChange: "s"
+
+2024-10-21 23:56:31,503 - DEBUG - Adjusted position from 5 to 12
+2024-10-21 23:56:31,503 - INFO - Handled insert: 's' at position 12
+2024-10-21 23:56:31,503 - INFO - Broadcasted change to all clients: client_id: "791"
+change_type: "insert"
+position: 12
+charChange: "s"
+changeIndex: 14
+
+2024-10-21 23:56:31,688 - INFO - Received change from client 791: client_id: "791"
+change_type: "insert"
+position: 6
+charChange: "s"
+
+2024-10-21 23:56:31,688 - DEBUG - Adjusted position from 6 to 13
+2024-10-21 23:56:31,688 - INFO - Handled insert: 's' at position 13
+2024-10-21 23:56:31,688 - INFO - Broadcasted change to all clients: client_id: "791"
+change_type: "insert"
+position: 13
+charChange: "s"
+changeIndex: 15
+
+2024-10-21 23:56:31,935 - INFO - Received change from client 791: client_id: "791"
+change_type: "insert"
+position: 7
+charChange: "s"
+
+2024-10-21 23:56:31,935 - DEBUG - Adjusted position from 7 to 16
+2024-10-21 23:56:31,935 - INFO - Handled insert: 's' at position 16
+2024-10-21 23:56:31,935 - INFO - Broadcasted change to all clients: client_id: "791"
+change_type: "insert"
+position: 16
+charChange: "s"
+changeIndex: 16
+
+2024-10-21 23:56:34,081 - DEBUG - Logging changes...
+2024-10-21 23:56:36,388 - DEBUG - Exception while consuming the request_iterator: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNAVAILABLE
+	details = "failed to connect to all addresses; last error: UNAVAILABLE: ipv4:127.0.0.1:50052: ConnectEx: Connection refused (No connection could be made because the target machine actively refused it.
+ -- 10061)"
+	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"failed to connect to all addresses; last error: UNAVAILABLE: ipv4:127.0.0.1:50052: ConnectEx: Connection refused (No connection could be made because the target machine actively refused it.\r\n -- 10061)", grpc_status:14, created_time:"2024-10-21T18:26:36.3816066+00:00"}"
+>
+2024-10-21 23:56:36,388 - ERROR - Task exception was never retrieved
+future: <Task finished name='Task-2' coro=<RTFServiceServicer.LogChanges() done, defined at C:\Users\Kapil\Desktop\Y4S1\DS\HW4\Q4\server\testserver.py:109> exception=<AioRpcError of RPC that terminated with:
+	status = StatusCode.UNAVAILABLE
+	details = "failed to connect to all addresses; last error: UNAVAILABLE: ipv4:127.0.0.1:50052: ConnectEx: Connection refused (No connection could be made because the target machine actively refused it.
+ -- 10061)"
+	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"failed to connect to all addresses; last error: UNAVAILABLE: ipv4:127.0.0.1:50052: ConnectEx: Connection refused (No connection could be made because the target machine actively refused it.\r\n -- 10061)", grpc_status:14, created_time:"2024-10-21T18:26:36.3816066+00:00"}"
+>>
+Traceback (most recent call last):
+  File "C:\Users\Kapil\Desktop\Y4S1\DS\HW4\Q4\server\testserver.py", line 122, in LogChanges
+    response = await self.stub.LogChanges(iter(request_iterator))
+  File "C:\Users\Kapil\anaconda3\lib\site-packages\grpc\aio\_call.py", line 327, in __await__
+    raise _create_rpc_error(
+grpc.aio._call.AioRpcError: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNAVAILABLE
+	details = "failed to connect to all addresses; last error: UNAVAILABLE: ipv4:127.0.0.1:50052: ConnectEx: Connection refused (No connection could be made because the target machine actively refused it.
+ -- 10061)"
+	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"failed to connect to all addresses; last error: UNAVAILABLE: ipv4:127.0.0.1:50052: ConnectEx: Connection refused (No connection could be made because the target machine actively refused it.\r\n -- 10061)", grpc_status:14, created_time:"2024-10-21T18:26:36.3816066+00:00"}"
+>
+2024-10-21 23:58:45,778 - DEBUG - __dealloc__ called on running server <grpc._cython.cygrpc.AioServer object at 0x00000279701B40D0> with status 2
+2024-10-21 23:58:50,142 - INFO - Starting the RTF server...
+2024-10-21 23:58:50,143 - DEBUG - Using proactor: IocpProactor
+2024-10-21 23:58:50,143 - DEBUG - Using AsyncIOEngine.POLLER as I/O engine
+2024-10-21 23:58:50,145 - INFO - RTFService initialized with document content: 'hello!'
+2024-10-21 23:58:50,146 - INFO - Starting gRPC server on port 50051
+2024-10-21 23:58:53,328 - INFO - Client initialized with content: 'hello!' and last change: 0
+2024-10-21 23:58:55,143 - DEBUG - Logging changes...
+2024-10-21 23:58:56,993 - INFO - Client initialized with content: 'hello!' and last change: 0
+2024-10-21 23:58:59,123 - ERROR - Unexpected [AttributeError] raised by servicer method [/document.RTFService/SyncChanges]
+Traceback (most recent call last):
+  File "src\\python\\grpcio\\grpc\\_cython\\_cygrpc/aio/server.pyx.pxi", line 689, in grpc._cython.cygrpc._handle_exceptions
+  File "src\\python\\grpcio\\grpc\\_cython\\_cygrpc/aio/server.pyx.pxi", line 852, in _handle_rpc
+  File "src\\python\\grpcio\\grpc\\_cython\\_cygrpc/aio/server.pyx.pxi", line 677, in _handle_stream_stream_rpc
+  File "src\\python\\grpcio\\grpc\\_cython\\_cygrpc/aio/server.pyx.pxi", line 501, in _finish_handler_with_stream_responses
+  File "C:\Users\Kapil\Desktop\Y4S1\DS\HW4\Q4\server\testserver.py", line 81, in SyncChanges
+    logging.info("Client %s connected", request.client_id)
+AttributeError: 'grpc._cython.cygrpc._MessageReceiver' object has no attribute 'client_id'
+2024-10-21 23:58:59,147 - INFO - Received change from client 286: client_id: "286"
+change_type: "insert"
+charChange: "c"
+
+2024-10-21 23:58:59,148 - DEBUG - Adjusted position from 0 to 0
+2024-10-21 23:58:59,148 - INFO - Handled insert: 'c' at position 0
+2024-10-21 23:58:59,148 - INFO - Broadcasted change to all clients: client_id: "286"
+change_type: "insert"
+charChange: "c"
+changeIndex: 1
+
+2024-10-21 23:58:59,344 - INFO - Received change from client 286: client_id: "286"
+change_type: "insert"
+position: 1
+charChange: "d"
+
+2024-10-21 23:58:59,345 - DEBUG - Adjusted position from 1 to 2
+2024-10-21 23:58:59,345 - INFO - Handled insert: 'd' at position 2
+2024-10-21 23:58:59,345 - INFO - Broadcasted change to all clients: client_id: "286"
+change_type: "insert"
+position: 2
+charChange: "d"
+changeIndex: 2
+
+2024-10-21 23:58:59,470 - INFO - Received change from client 286: client_id: "286"
+change_type: "insert"
+position: 2
+charChange: "s"
+
+2024-10-21 23:58:59,470 - DEBUG - Adjusted position from 2 to 4
+2024-10-21 23:58:59,470 - INFO - Handled insert: 's' at position 4
+2024-10-21 23:58:59,471 - INFO - Broadcasted change to all clients: client_id: "286"
+change_type: "insert"
+position: 4
+charChange: "s"
+changeIndex: 3
+
+2024-10-21 23:58:59,594 - INFO - Received change from client 286: client_id: "286"
+change_type: "insert"
+position: 3
+charChange: "d"
+
+2024-10-21 23:58:59,594 - DEBUG - Adjusted position from 3 to 5
+2024-10-21 23:58:59,594 - INFO - Handled insert: 'd' at position 5
+2024-10-21 23:58:59,594 - INFO - Broadcasted change to all clients: client_id: "286"
+change_type: "insert"
+position: 5
+charChange: "d"
+changeIndex: 4
+
+2024-10-21 23:58:59,596 - INFO - Received change from client 286: client_id: "286"
+change_type: "insert"
+position: 4
+charChange: "c"
+
+2024-10-21 23:58:59,596 - DEBUG - Adjusted position from 4 to 7
+2024-10-21 23:58:59,596 - INFO - Handled insert: 'c' at position 7
+2024-10-21 23:58:59,596 - INFO - Broadcasted change to all clients: client_id: "286"
+change_type: "insert"
+position: 7
+charChange: "c"
+changeIndex: 5
+
+2024-10-21 23:58:59,718 - INFO - Received change from client 286: client_id: "286"
+change_type: "insert"
+position: 5
+charChange: "s"
+
+2024-10-21 23:58:59,719 - DEBUG - Adjusted position from 5 to 9
+2024-10-21 23:58:59,719 - INFO - Handled insert: 's' at position 9
+2024-10-21 23:58:59,719 - INFO - Broadcasted change to all clients: client_id: "286"
+change_type: "insert"
+position: 9
+charChange: "s"
+changeIndex: 6
+
+2024-10-21 23:58:59,907 - INFO - Received change from client 286: client_id: "286"
+change_type: "insert"
+position: 6
+charChange: "s"
+
+2024-10-21 23:58:59,907 - DEBUG - Adjusted position from 6 to 10
+2024-10-21 23:58:59,907 - INFO - Handled insert: 's' at position 10
+2024-10-21 23:58:59,907 - INFO - Broadcasted change to all clients: client_id: "286"
+change_type: "insert"
+position: 10
+charChange: "s"
+changeIndex: 7
+
+2024-10-21 23:59:00,096 - INFO - Received change from client 286: client_id: "286"
+change_type: "insert"
+position: 7
+charChange: "s"
+
+2024-10-21 23:59:00,096 - DEBUG - Adjusted position from 7 to 12
+2024-10-21 23:59:00,096 - INFO - Handled insert: 's' at position 12
+2024-10-21 23:59:00,096 - INFO - Broadcasted change to all clients: client_id: "286"
+change_type: "insert"
+position: 12
+charChange: "s"
+changeIndex: 8
+
+2024-10-21 23:59:00,157 - DEBUG - Logging changes...
+2024-10-21 23:59:00,220 - INFO - Received change from client 286: client_id: "286"
+change_type: "insert"
+position: 8
+charChange: "d"
+
+2024-10-21 23:59:00,220 - DEBUG - Adjusted position from 8 to 13
+2024-10-21 23:59:00,220 - INFO - Handled insert: 'd' at position 13
+2024-10-21 23:59:00,220 - INFO - Broadcasted change to all clients: client_id: "286"
+change_type: "insert"
+position: 13
+charChange: "d"
+changeIndex: 9
+
+2024-10-21 23:59:00,344 - INFO - Received change from client 286: client_id: "286"
+change_type: "insert"
+position: 9
+charChange: "s"
+
+2024-10-21 23:59:00,344 - DEBUG - Adjusted position from 9 to 15
+2024-10-21 23:59:00,344 - INFO - Handled insert: 's' at position 15
+2024-10-21 23:59:00,344 - INFO - Broadcasted change to all clients: client_id: "286"
+change_type: "insert"
+position: 15
+charChange: "s"
+changeIndex: 10
+
+2024-10-21 23:59:00,917 - ERROR - Unexpected [AttributeError] raised by servicer method [/document.RTFService/SyncChanges]
+Traceback (most recent call last):
+  File "src\\python\\grpcio\\grpc\\_cython\\_cygrpc/aio/server.pyx.pxi", line 689, in grpc._cython.cygrpc._handle_exceptions
+  File "src\\python\\grpcio\\grpc\\_cython\\_cygrpc/aio/server.pyx.pxi", line 852, in _handle_rpc
+  File "src\\python\\grpcio\\grpc\\_cython\\_cygrpc/aio/server.pyx.pxi", line 677, in _handle_stream_stream_rpc
+  File "src\\python\\grpcio\\grpc\\_cython\\_cygrpc/aio/server.pyx.pxi", line 501, in _finish_handler_with_stream_responses
+  File "C:\Users\Kapil\Desktop\Y4S1\DS\HW4\Q4\server\testserver.py", line 81, in SyncChanges
+    logging.info("Client %s connected", request.client_id)
+AttributeError: 'grpc._cython.cygrpc._MessageReceiver' object has no attribute 'client_id'
+2024-10-21 23:59:00,927 - INFO - Received change from client 220: client_id: "220"
+change_type: "insert"
+charChange: "s"
+
+2024-10-21 23:59:00,927 - DEBUG - Adjusted position from 0 to 1
+2024-10-21 23:59:00,927 - INFO - Handled insert: 's' at position 1
+2024-10-21 23:59:00,927 - INFO - Broadcasted change to all clients: client_id: "220"
+change_type: "insert"
+position: 1
+charChange: "s"
+changeIndex: 11
+
+2024-10-21 23:59:01,002 - INFO - Received change from client 220: client_id: "220"
+change_type: "insert"
+position: 1
+charChange: "x"
+
+2024-10-21 23:59:01,002 - DEBUG - Adjusted position from 1 to 3
+2024-10-21 23:59:01,002 - INFO - Handled insert: 'x' at position 3
+2024-10-21 23:59:01,002 - INFO - Broadcasted change to all clients: client_id: "220"
+change_type: "insert"
+position: 3
+charChange: "x"
+changeIndex: 12
+
+2024-10-21 23:59:01,181 - INFO - Received change from client 220: client_id: "220"
+change_type: "insert"
+position: 2
+charChange: "s"
+
+2024-10-21 23:59:01,182 - DEBUG - Adjusted position from 2 to 5
+2024-10-21 23:59:01,182 - INFO - Handled insert: 's' at position 5
+2024-10-21 23:59:01,182 - INFO - Broadcasted change to all clients: client_id: "220"
+change_type: "insert"
+position: 5
+charChange: "s"
+changeIndex: 13
+
+2024-10-21 23:59:01,243 - INFO - Received change from client 220: client_id: "220"
+change_type: "insert"
+position: 3
+charChange: "x"
+
+2024-10-21 23:59:01,243 - DEBUG - Adjusted position from 3 to 7
+2024-10-21 23:59:01,243 - INFO - Handled insert: 'x' at position 7
+2024-10-21 23:59:01,243 - INFO - Broadcasted change to all clients: client_id: "220"
+change_type: "insert"
+position: 7
+charChange: "x"
+changeIndex: 14
+
+2024-10-21 23:59:01,367 - INFO - Received change from client 220: client_id: "220"
+change_type: "insert"
+position: 4
+charChange: "s"
+
+2024-10-21 23:59:01,367 - DEBUG - Adjusted position from 4 to 9
+2024-10-21 23:59:01,367 - INFO - Handled insert: 's' at position 9
+2024-10-21 23:59:01,367 - INFO - Broadcasted change to all clients: client_id: "220"
+change_type: "insert"
+position: 9
+charChange: "s"
+changeIndex: 15
+
+2024-10-21 23:59:01,429 - INFO - Received change from client 220: client_id: "220"
+change_type: "insert"
+position: 5
+charChange: "x"
+
+2024-10-21 23:59:01,429 - DEBUG - Adjusted position from 5 to 12
+2024-10-21 23:59:01,429 - INFO - Handled insert: 'x' at position 12
+2024-10-21 23:59:01,429 - INFO - Broadcasted change to all clients: client_id: "220"
+change_type: "insert"
+position: 12
+charChange: "x"
+changeIndex: 16
+
+2024-10-21 23:59:01,553 - INFO - Received change from client 220: client_id: "220"
+change_type: "insert"
+position: 6
+charChange: "s"
+
+2024-10-21 23:59:01,553 - DEBUG - Adjusted position from 6 to 13
+2024-10-21 23:59:01,553 - INFO - Handled insert: 's' at position 13
+2024-10-21 23:59:01,554 - INFO - Broadcasted change to all clients: client_id: "220"
+change_type: "insert"
+position: 13
+charChange: "s"
+changeIndex: 17
+
+2024-10-21 23:59:02,492 - DEBUG - Exception while consuming the request_iterator: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNAVAILABLE
+	details = "failed to connect to all addresses; last error: UNAVAILABLE: ipv4:127.0.0.1:50052: ConnectEx: Connection refused (No connection could be made because the target machine actively refused it.
+ -- 10061)"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2024-10-21T18:29:02.4844354+00:00", grpc_status:14, grpc_message:"failed to connect to all addresses; last error: UNAVAILABLE: ipv4:127.0.0.1:50052: ConnectEx: Connection refused (No connection could be made because the target machine actively refused it.\r\n -- 10061)"}"
+>
+2024-10-21 23:59:02,492 - ERROR - Task exception was never retrieved
+future: <Task finished name='Task-2' coro=<RTFServiceServicer.LogChanges() done, defined at C:\Users\Kapil\Desktop\Y4S1\DS\HW4\Q4\server\testserver.py:109> exception=<AioRpcError of RPC that terminated with:
+	status = StatusCode.UNAVAILABLE
+	details = "failed to connect to all addresses; last error: UNAVAILABLE: ipv4:127.0.0.1:50052: ConnectEx: Connection refused (No connection could be made because the target machine actively refused it.
+ -- 10061)"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2024-10-21T18:29:02.4844354+00:00", grpc_status:14, grpc_message:"failed to connect to all addresses; last error: UNAVAILABLE: ipv4:127.0.0.1:50052: ConnectEx: Connection refused (No connection could be made because the target machine actively refused it.\r\n -- 10061)"}"
+>>
+Traceback (most recent call last):
+  File "C:\Users\Kapil\Desktop\Y4S1\DS\HW4\Q4\server\testserver.py", line 122, in LogChanges
+    response = await self.stub.LogChanges(iter(request_iterator))
+  File "C:\Users\Kapil\anaconda3\lib\site-packages\grpc\aio\_call.py", line 327, in __await__
+    raise _create_rpc_error(
+grpc.aio._call.AioRpcError: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNAVAILABLE
+	details = "failed to connect to all addresses; last error: UNAVAILABLE: ipv4:127.0.0.1:50052: ConnectEx: Connection refused (No connection could be made because the target machine actively refused it.
+ -- 10061)"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2024-10-21T18:29:02.4844354+00:00", grpc_status:14, grpc_message:"failed to connect to all addresses; last error: UNAVAILABLE: ipv4:127.0.0.1:50052: ConnectEx: Connection refused (No connection could be made because the target machine actively refused it.\r\n -- 10061)"}"
+>
+2024-10-22 00:01:03,078 - DEBUG - __dealloc__ called on running server <grpc._cython.cygrpc.AioServer object at 0x0000022BB29140D0> with status 2
+2024-10-22 00:01:06,809 - INFO - Starting the RTF server...
+2024-10-22 00:01:06,809 - DEBUG - Using proactor: IocpProactor
+2024-10-22 00:01:06,810 - DEBUG - Using AsyncIOEngine.POLLER as I/O engine
+2024-10-22 00:01:06,811 - INFO - RTFService initialized with document content: 'hello!'
+2024-10-22 00:01:06,812 - INFO - Starting gRPC server on port 50051
+2024-10-22 00:01:09,017 - DEBUG - __dealloc__ called on running server <grpc._cython.cygrpc.AioServer object at 0x0000024EAF3C8A60> with status 2
+2024-10-22 00:01:12,524 - INFO - Starting the RTF server...
+2024-10-22 00:01:12,524 - DEBUG - Using proactor: IocpProactor
+2024-10-22 00:01:12,525 - DEBUG - Using AsyncIOEngine.POLLER as I/O engine
+2024-10-22 00:01:12,527 - INFO - RTFService initialized with document content: 'hello!'
+2024-10-22 00:01:12,527 - INFO - Starting gRPC server on port 50051
+2024-10-22 00:01:15,649 - INFO - Client initialized with content: 'hello!' and last change: 0
+2024-10-22 00:01:22,103 - INFO - Client initialized with content: 'hello!' and last change: 0
+2024-10-22 00:01:22,905 - ERROR - Unexpected [AttributeError] raised by servicer method [/document.RTFService/SyncChanges]
+Traceback (most recent call last):
+  File "src\\python\\grpcio\\grpc\\_cython\\_cygrpc/aio/server.pyx.pxi", line 689, in grpc._cython.cygrpc._handle_exceptions
+  File "src\\python\\grpcio\\grpc\\_cython\\_cygrpc/aio/server.pyx.pxi", line 852, in _handle_rpc
+  File "src\\python\\grpcio\\grpc\\_cython\\_cygrpc/aio/server.pyx.pxi", line 677, in _handle_stream_stream_rpc
+  File "src\\python\\grpcio\\grpc\\_cython\\_cygrpc/aio/server.pyx.pxi", line 501, in _finish_handler_with_stream_responses
+  File "C:\Users\Kapil\Desktop\Y4S1\DS\HW4\Q4\server\testserver.py", line 78, in SyncChanges
+    logging.info("Client %s connected", request.client_id)
+AttributeError: 'grpc._cython.cygrpc._MessageReceiver' object has no attribute 'client_id'
+2024-10-22 00:01:22,907 - ERROR - Failed sending error status from server
+Traceback (most recent call last):
+  File "src\\python\\grpcio\\grpc\\_cython\\_cygrpc/aio/server.pyx.pxi", line 729, in grpc._cython.cygrpc._handle_exceptions
+  File "src\\python\\grpcio\\grpc\\_cython\\_cygrpc/aio/callback_common.pyx.pxi", line 185, in _send_error_status_from_server
+  File "src\\python\\grpcio\\grpc\\_cython\\_cygrpc/aio/callback_common.pyx.pxi", line 99, in execute_batch
+grpc._cython.cygrpc.ExecuteBatchError: Failed "execute_batch": (<grpc._cython.cygrpc.SendInitialMetadataOperation object at 0x000001E410C7FE20>, <grpc._cython.cygrpc.SendStatusFromServerOperation object at 0x000001E410D09A40>)
+2024-10-22 00:01:22,919 - INFO - Received change from client 259: client_id: "259"
+change_type: "insert"
+charChange: "c"
+
+2024-10-22 00:01:22,919 - DEBUG - Adjusted position from 0 to 0
+2024-10-22 00:01:22,919 - INFO - Handled insert: 'c' at position 0
+2024-10-22 00:01:22,919 - INFO - Broadcasted change to all clients: client_id: "259"
+change_type: "insert"
+charChange: "c"
+changeIndex: 1
+
+2024-10-22 00:01:22,984 - INFO - Received change from client 259: client_id: "259"
+change_type: "insert"
+position: 1
+charChange: "d"
+
+2024-10-22 00:01:22,984 - DEBUG - Adjusted position from 1 to 2
+2024-10-22 00:01:22,984 - INFO - Handled insert: 'd' at position 2
+2024-10-22 00:01:22,984 - INFO - Broadcasted change to all clients: client_id: "259"
+change_type: "insert"
+position: 2
+charChange: "d"
+changeIndex: 2
+
+2024-10-22 00:01:23,106 - INFO - Received change from client 259: client_id: "259"
+change_type: "insert"
+position: 2
+charChange: "c"
+
+2024-10-22 00:01:23,106 - DEBUG - Adjusted position from 2 to 4
+2024-10-22 00:01:23,106 - INFO - Handled insert: 'c' at position 4
+2024-10-22 00:01:23,106 - INFO - Broadcasted change to all clients: client_id: "259"
+change_type: "insert"
+position: 4
+charChange: "c"
+changeIndex: 3
+
+2024-10-22 00:01:23,232 - INFO - Received change from client 259: client_id: "259"
+change_type: "insert"
+position: 3
+charChange: "d"
+
+2024-10-22 00:01:23,232 - DEBUG - Adjusted position from 3 to 5
+2024-10-22 00:01:23,232 - INFO - Handled insert: 'd' at position 5
+2024-10-22 00:01:23,232 - INFO - Broadcasted change to all clients: client_id: "259"
+change_type: "insert"
+position: 5
+charChange: "d"
+changeIndex: 4
+
+2024-10-22 00:01:23,354 - INFO - Received change from client 259: client_id: "259"
+change_type: "insert"
+position: 4
+charChange: "c"
+
+2024-10-22 00:01:23,355 - DEBUG - Adjusted position from 4 to 7
+2024-10-22 00:01:23,355 - INFO - Handled insert: 'c' at position 7
+2024-10-22 00:01:23,355 - INFO - Broadcasted change to all clients: client_id: "259"
+change_type: "insert"
+position: 7
+charChange: "c"
+changeIndex: 5
+
+2024-10-22 00:01:23,418 - INFO - Received change from client 259: client_id: "259"
+change_type: "insert"
+position: 5
+charChange: "d"
+
+2024-10-22 00:01:23,418 - DEBUG - Adjusted position from 5 to 9
+2024-10-22 00:01:23,418 - INFO - Handled insert: 'd' at position 9
+2024-10-22 00:01:23,418 - INFO - Broadcasted change to all clients: client_id: "259"
+change_type: "insert"
+position: 9
+charChange: "d"
+changeIndex: 6
+
+2024-10-22 00:01:23,542 - INFO - Received change from client 259: client_id: "259"
+change_type: "insert"
+position: 6
+charChange: "c"
+
+2024-10-22 00:01:23,542 - DEBUG - Adjusted position from 6 to 10
+2024-10-22 00:01:23,542 - INFO - Handled insert: 'c' at position 10
+2024-10-22 00:01:23,542 - INFO - Broadcasted change to all clients: client_id: "259"
+change_type: "insert"
+position: 10
+charChange: "c"
+changeIndex: 7
+
+2024-10-22 00:01:24,647 - ERROR - Unexpected [AttributeError] raised by servicer method [/document.RTFService/SyncChanges]
+Traceback (most recent call last):
+  File "src\\python\\grpcio\\grpc\\_cython\\_cygrpc/aio/server.pyx.pxi", line 689, in grpc._cython.cygrpc._handle_exceptions
+  File "src\\python\\grpcio\\grpc\\_cython\\_cygrpc/aio/server.pyx.pxi", line 852, in _handle_rpc
+  File "src\\python\\grpcio\\grpc\\_cython\\_cygrpc/aio/server.pyx.pxi", line 677, in _handle_stream_stream_rpc
+  File "src\\python\\grpcio\\grpc\\_cython\\_cygrpc/aio/server.pyx.pxi", line 501, in _finish_handler_with_stream_responses
+  File "C:\Users\Kapil\Desktop\Y4S1\DS\HW4\Q4\server\testserver.py", line 78, in SyncChanges
+    logging.info("Client %s connected", request.client_id)
+AttributeError: 'grpc._cython.cygrpc._MessageReceiver' object has no attribute 'client_id'
+2024-10-22 00:01:24,657 - INFO - Received change from client 917: client_id: "917"
+change_type: "insert"
+charChange: "c"
+
+2024-10-22 00:01:24,657 - DEBUG - Adjusted position from 0 to 1
+2024-10-22 00:01:24,657 - INFO - Handled insert: 'c' at position 1
+2024-10-22 00:01:24,658 - INFO - Broadcasted change to all clients: client_id: "917"
+change_type: "insert"
+position: 1
+charChange: "c"
+changeIndex: 8
+
+2024-10-22 00:01:24,733 - INFO - Received change from client 917: client_id: "917"
+change_type: "insert"
+position: 1
+charChange: "d"
+
+2024-10-22 00:01:24,733 - DEBUG - Adjusted position from 1 to 3
+2024-10-22 00:01:24,733 - INFO - Handled insert: 'd' at position 3
+2024-10-22 00:01:24,733 - INFO - Broadcasted change to all clients: client_id: "917"
+change_type: "insert"
+position: 3
+charChange: "d"
+changeIndex: 9
+
+2024-10-22 00:01:24,789 - INFO - Received change from client 917: client_id: "917"
+change_type: "insert"
+position: 2
+charChange: "x"
+
+2024-10-22 00:01:24,789 - DEBUG - Adjusted position from 2 to 5
+2024-10-22 00:01:24,789 - INFO - Handled insert: 'x' at position 5
+2024-10-22 00:01:24,789 - INFO - Broadcasted change to all clients: client_id: "917"
+change_type: "insert"
+position: 5
+charChange: "x"
+changeIndex: 10
+
+2024-10-22 00:01:24,914 - INFO - Received change from client 917: client_id: "917"
+change_type: "insert"
+position: 3
+charChange: "c"
+
+2024-10-22 00:01:24,914 - DEBUG - Adjusted position from 3 to 7
+2024-10-22 00:01:24,914 - INFO - Handled insert: 'c' at position 7
+2024-10-22 00:01:24,914 - INFO - Broadcasted change to all clients: client_id: "917"
+change_type: "insert"
+position: 7
+charChange: "c"
+changeIndex: 11
+
+2024-10-22 00:01:25,038 - INFO - Received change from client 917: client_id: "917"
+change_type: "insert"
+position: 4
+charChange: "d"
+
+2024-10-22 00:01:25,038 - DEBUG - Adjusted position from 4 to 9
+2024-10-22 00:01:25,038 - INFO - Handled insert: 'd' at position 9
+2024-10-22 00:01:25,038 - INFO - Broadcasted change to all clients: client_id: "917"
+change_type: "insert"
+position: 9
+charChange: "d"
+changeIndex: 12
+
+2024-10-22 00:01:25,339 - INFO - Received change from client 917: client_id: "917"
+change_type: "insert"
+position: 5
+charChange: "e"
+
+2024-10-22 00:01:25,339 - DEBUG - Adjusted position from 5 to 12
+2024-10-22 00:01:25,339 - INFO - Handled insert: 'e' at position 12
+2024-10-22 00:01:25,339 - INFO - Broadcasted change to all clients: client_id: "917"
+change_type: "insert"
+position: 12
+charChange: "e"
+changeIndex: 13
+
+2024-10-22 00:01:25,340 - INFO - Received change from client 917: client_id: "917"
+change_type: "insert"
+position: 6
+charChange: "d"
+
+2024-10-22 00:01:25,340 - DEBUG - Adjusted position from 6 to 13
+2024-10-22 00:01:25,341 - INFO - Handled insert: 'd' at position 13
+2024-10-22 00:01:25,341 - INFO - Broadcasted change to all clients: client_id: "917"
+change_type: "insert"
+position: 13
+charChange: "d"
+changeIndex: 14
+
+2024-10-22 00:01:25,521 - INFO - Received change from client 917: client_id: "917"
+change_type: "insert"
+position: 7
+charChange: "s"
+
+2024-10-22 00:01:25,521 - DEBUG - Adjusted position from 7 to 16
+2024-10-22 00:01:25,521 - INFO - Handled insert: 's' at position 16
+2024-10-22 00:01:25,521 - INFO - Broadcasted change to all clients: client_id: "917"
+change_type: "insert"
+position: 16
+charChange: "s"
+changeIndex: 15
+
+2024-10-22 00:01:25,522 - INFO - Received change from client 917: client_id: "917"
+change_type: "insert"
+position: 8
+charChange: "e"
+
+2024-10-22 00:01:25,522 - DEBUG - Adjusted position from 8 to 17
+2024-10-22 00:01:25,522 - INFO - Handled insert: 'e' at position 17
+2024-10-22 00:01:25,523 - INFO - Broadcasted change to all clients: client_id: "917"
+change_type: "insert"
+position: 17
+charChange: "e"
+changeIndex: 16
+
+2024-10-22 00:01:25,646 - INFO - Received change from client 917: client_id: "917"
+change_type: "insert"
+position: 9
+charChange: "d"
+
+2024-10-22 00:01:25,646 - DEBUG - Adjusted position from 9 to 20
+2024-10-22 00:01:25,646 - INFO - Handled insert: 'd' at position 20
+2024-10-22 00:01:25,646 - INFO - Broadcasted change to all clients: client_id: "917"
+change_type: "insert"
+position: 20
+charChange: "d"
+changeIndex: 17
+
+2024-10-22 00:01:25,769 - INFO - Received change from client 917: client_id: "917"
+change_type: "insert"
+position: 10
+charChange: "e"
+
+2024-10-22 00:01:25,769 - DEBUG - Adjusted position from 10 to 22
+2024-10-22 00:01:25,770 - INFO - Handled insert: 'e' at position 22
+2024-10-22 00:01:25,770 - INFO - Broadcasted change to all clients: client_id: "917"
+change_type: "insert"
+position: 22
+charChange: "e"
+changeIndex: 18
+
+2024-10-22 00:01:25,894 - INFO - Received change from client 917: client_id: "917"
+change_type: "insert"
+position: 11
+charChange: "d"
+
+2024-10-22 00:01:25,894 - DEBUG - Adjusted position from 11 to 23
+2024-10-22 00:01:25,894 - INFO - Handled insert: 'd' at position 23
+2024-10-22 00:01:25,894 - INFO - Broadcasted change to all clients: client_id: "917"
+change_type: "insert"
+position: 23
+charChange: "d"
+changeIndex: 19
+
+2024-10-22 00:10:00,035 - DEBUG - __dealloc__ called on running server <grpc._cython.cygrpc.AioServer object at 0x000001E411168A60> with status 2

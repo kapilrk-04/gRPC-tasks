@@ -1,0 +1,45 @@
+syntax = "proto3";
+
+package document;
+
+service RTFService {
+    rpc InitializeClient(InitializeRequest) returns (DocumentContent);
+
+    rpc SyncChanges(stream SyncChange) returns (stream DocumentChange);
+
+    rpc SendLocalChange(DocumentChange) returns (AckMessage);
+}
+
+service LoggingService {
+    rpc LogChanges(stream DocumentChange) returns (LogResponse);
+}
+
+message InitializeRequest {
+    string client_id = 1;  // Unique client identifier
+}
+
+message SyncChange {
+    string client_id = 1;  // The client who made the change
+    int32 changeIndex = 2;  // The index of the change
+}
+
+message DocumentContent {
+    string content = 1;  // The current content of the document
+    int32 lastChange = 2;  // The last change number
+}
+
+message DocumentChange {
+    string client_id = 1;  // The client who made the change
+    string change_type = 2;  // Type of change ("insert" or "delete")
+    int32 position = 3;  // Position in the document where the change was made
+    string charChange = 4;  // The character inserted or an empty string for deletion
+    int32 changeIndex = 5;  // The index of the change
+}
+
+message AckMessage {
+    string message = 1;
+}
+
+message LogResponse {
+    string message = 1;
+}
